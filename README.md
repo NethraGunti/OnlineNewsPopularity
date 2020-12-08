@@ -15,12 +15,12 @@ _(Look at the `OnlineNewsPopularity.names` and `text.txt` for more details on th
 
 **Models Used:**
 
-* Multiple Linear Regressor (Primary Model)
+* Multiple Linear Regressor (Primary Model) `code commented out due to large output`
 * Random Forest Regressor & Classifier (Best Fitting Model)
 * Artificial Neural Networks (Deep Learning Model)
 * k Nearest Neighbours
 * Naive Bayes Classifier
-* Logistc Regressor `//code not included in this file//`
+* Logistc Regressor `//code commented out due to large output//`
 
 **Statistical Tests**
 \
